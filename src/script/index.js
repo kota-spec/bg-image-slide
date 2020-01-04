@@ -57,13 +57,13 @@ class BgImage {
         onStart: () => {
           current.el.style.zIndex = 5;
         },
-        height: '33.333%',
+        width: '33.333%',
         duration: 0.1,
         ease: 'none',
         onComplete: () => {
           rejectOpt.forEach(c => {
             c.childs.forEach(cc => {
-              cc.style.height = '0%';
+              cc.style.width = '0%';
             });
           });
         }
