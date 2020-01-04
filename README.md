@@ -1,3 +1,3 @@
-# タイトル
+# Bg image slide
 
-[サンプルはこちら](https://kota-spec.github.io/タイトル/)
+[サンプルはこちら](https://kota-spec.github.io/bg-image-slide/)
