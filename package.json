@@ -110,7 +110,7 @@
     "lodash": "^4.17.15",
     "raw-loader": "^4.0.0",
     "ress": "^1.2.2",
-    "three": "^0.111.0",
+    "three": "^0.125.0",
     "three-orbitcontrols": "^2.110.3"
   }
 }
